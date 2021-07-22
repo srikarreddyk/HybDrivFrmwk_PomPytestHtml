@@ -1,0 +1,438 @@
+2021-07-16 12:36:29,131 - INFO - ***********Test_001_Login*********
+2021-07-16 12:36:29,135 - INFO - ***********Verifying Home page title*********
+2021-07-16 12:36:34,456 - ERROR - ***********Home page title Fail*********
+2021-07-16 12:38:12,847 - INFO - ***********Test_001_Login*********
+2021-07-16 12:38:12,849 - INFO - ***********Verifying Home page title*********
+2021-07-16 12:38:18,292 - ERROR - ***********Home page title Fail*********
+2021-07-16 12:38:20,005 - INFO - ***********Test_002_LoginPage*********
+2021-07-16 12:38:20,005 - INFO - ***********Verifying Login page title*********
+2021-07-16 12:38:25,202 - ERROR - ***********Dashboard page title Fail*********
+2021-07-16 12:40:47,117 - INFO - ***********Test_001_Login*********
+2021-07-16 12:40:47,118 - INFO - ***********Verifying Home page title*********
+2021-07-16 12:40:55,551 - ERROR - ***********Home page title Fail*********
+2021-07-16 12:40:57,435 - INFO - ***********Test_002_LoginPage*********
+2021-07-16 12:40:57,435 - INFO - ***********Verifying Login page title*********
+2021-07-16 12:45:19,481 - INFO - ***********Test_001_Login*********
+2021-07-16 12:45:19,481 - INFO - ***********Verifying Home page title*********
+2021-07-16 12:45:25,368 - ERROR - ***********Home page title Fail*********
+2021-07-16 12:45:32,822 - INFO - ***********Test_002_LoginPage*********
+2021-07-16 12:45:32,822 - INFO - ***********Verifying Login page title*********
+2021-07-16 12:50:55,896 - INFO - ***********Test_001_Login*********
+2021-07-16 12:50:55,897 - INFO - ***********Verifying Home page title*********
+2021-07-16 12:51:01,649 - ERROR - ***********Home page title Fail*********
+2021-07-16 12:51:09,929 - INFO - ***********Test_002_LoginPage*********
+2021-07-16 12:51:09,931 - INFO - ***********Verifying Login page title*********
+2021-07-17 12:55:07,109 - INFO - ***********Test_001_Login*********
+2021-07-17 12:55:07,110 - INFO - ***********Verifying Home page title*********
+2021-07-17 12:55:13,370 - ERROR - ***********Home page title Fail*********
+2021-07-17 12:55:20,979 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 12:55:20,980 - INFO - ***********Verifying Login page title*********
+2021-07-17 12:55:27,366 - ERROR - ***********Dashboard page title Fail*********
+2021-07-17 13:03:11,628 - INFO - ***********Test_001_Login*********
+2021-07-17 13:03:11,631 - INFO - ***********Verifying Home page title*********
+2021-07-17 13:03:17,409 - ERROR - ***********Home page title Fail*********
+2021-07-17 13:03:24,339 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 13:03:24,339 - INFO - ***********Verifying Login page title*********
+2021-07-17 13:03:33,909 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 13:05:24,676 - INFO - ***********Test_001_Login*********
+2021-07-17 13:05:24,679 - INFO - ***********Verifying Home page title*********
+2021-07-17 13:05:30,504 - INFO - ***********Home page title Pass*********
+2021-07-17 13:05:37,821 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 13:05:37,821 - INFO - ***********Verifying Login page title*********
+2021-07-17 13:05:45,711 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 13:05:59,127 - INFO - ***********Test_001_Login*********
+2021-07-17 13:05:59,128 - INFO - ***********Verifying Home page title*********
+2021-07-17 13:06:04,192 - INFO - ***********Home page title Pass*********
+2021-07-17 13:06:05,765 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 13:06:05,765 - INFO - ***********Verifying Login page title*********
+2021-07-17 13:06:13,992 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 13:06:49,124 - INFO - ***********Test_001_Login*********
+2021-07-17 13:06:49,124 - INFO - ***********Verifying Home page title*********
+2021-07-17 13:06:49,466 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 13:06:49,469 - INFO - ***********Verifying Login page title*********
+2021-07-17 13:06:52,941 - INFO - ***********Home page title Pass*********
+2021-07-17 13:06:59,837 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 13:23:20,896 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 13:23:20,899 - INFO - ***********Verifying Login page title*********
+2021-07-17 13:23:21,078 - INFO - ***********Test_001_Login*********
+2021-07-17 13:23:21,079 - INFO - ***********Verifying Home page title*********
+2021-07-17 13:23:27,352 - INFO - ***********Home page title Pass*********
+2021-07-17 13:23:30,290 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 16:01:53,074 - INFO - ***********Test_001_Login*********
+2021-07-17 16:01:53,075 - INFO - ***********Verifying Home page title*********
+2021-07-17 16:01:59,343 - INFO - ***********Home page title Pass*********
+2021-07-17 16:02:06,128 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 16:02:06,128 - INFO - ***********Verifying Login page title*********
+2021-07-17 16:02:16,401 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 20:42:55,542 - INFO - ***********Test_001_Login*********
+2021-07-17 20:42:55,542 - INFO - ***********Verifying Home page title*********
+2021-07-17 20:43:01,174 - INFO - ***********Home page title Pass*********
+2021-07-17 20:43:08,472 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 20:43:08,472 - INFO - ***********Verifying Login page title*********
+2021-07-17 20:43:17,501 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 20:52:40,539 - INFO - ***********Test_001_Login*********
+2021-07-17 20:52:40,539 - INFO - ***********Verifying Home page title*********
+2021-07-17 20:52:46,223 - INFO - ***********Home page title Pass*********
+2021-07-17 20:52:53,505 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 20:52:53,505 - INFO - ***********Verifying Login page title*********
+2021-07-17 20:53:04,260 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 21:13:22,699 - INFO - ***********Test_001_Login*********
+2021-07-17 21:13:22,699 - INFO - ***********Verifying Home page title*********
+2021-07-17 21:13:28,230 - INFO - ***********Home page title Pass*********
+2021-07-17 21:13:35,072 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 21:13:35,072 - INFO - ***********Verifying Login page title*********
+2021-07-17 21:13:45,135 - INFO - ***********Dashboard page title Pass*********
+2021-07-17 21:14:39,109 - INFO - ***********Test_001_Login*********
+2021-07-17 21:14:39,109 - INFO - ***********Verifying Home page title*********
+2021-07-17 21:14:45,059 - INFO - ***********Home page title Pass*********
+2021-07-17 21:14:51,832 - INFO - ***********Test_002_LoginPage*********
+2021-07-17 21:14:51,832 - INFO - ***********Verifying Login page title*********
+2021-07-17 21:15:03,183 - INFO - ***********Dashboard page title Pass*********
+2021-07-18 21:59:22,108 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-18 21:59:22,112 - INFO - ******* Starting Login DDT Test **********
+2021-07-18 22:00:21,280 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-18 22:00:21,282 - INFO - ******* Starting Login DDT Test **********
+2021-07-18 22:11:27,717 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-18 22:11:27,717 - INFO - ******* Starting Login DDT Test **********
+2021-07-18 22:11:48,035 - INFO - **** failed ****
+2021-07-18 22:11:53,427 - INFO - **** passed ****
+2021-07-18 22:12:02,513 - INFO - **** passed ****
+2021-07-18 22:12:12,904 - INFO - **** passed ****
+2021-07-18 22:12:12,904 - ERROR - ******* DDT Login test failed **********
+2021-07-19 14:50:25,639 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-19 14:50:25,640 - INFO - ******* Starting Login DDT Test **********
+2021-07-19 14:50:36,155 - INFO - **** failed ****
+2021-07-19 14:50:41,535 - INFO - **** passed ****
+2021-07-19 14:50:48,425 - INFO - **** passed ****
+2021-07-19 14:50:55,261 - INFO - **** passed ****
+2021-07-19 14:50:55,261 - ERROR - ******* DDT Login test failed **********
+2021-07-19 14:53:47,374 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-19 14:53:47,374 - INFO - ******* Starting Login DDT Test **********
+2021-07-19 14:54:02,080 - INFO - **** passed ****
+2021-07-19 15:03:08,868 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-19 15:03:08,870 - INFO - ******* Starting Login DDT Test **********
+2021-07-19 15:03:22,554 - INFO - **** passed ****
+2021-07-19 15:06:33,101 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-19 15:06:33,101 - INFO - ******* Starting Login DDT Test **********
+2021-07-19 15:06:47,349 - INFO - **** passed ****
+2021-07-19 15:10:40,997 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-19 15:10:40,997 - INFO - ******* Starting Login DDT Test **********
+2021-07-19 15:10:53,741 - INFO - **** passed ****
+2021-07-19 15:11:01,167 - INFO - **** passed ****
+2021-07-19 15:11:06,874 - INFO - **** passed ****
+2021-07-19 15:11:12,711 - INFO - **** passed ****
+2021-07-19 15:11:12,711 - INFO - ******* DDT Login test passed **********
+2021-07-19 15:11:13,457 - INFO - ******* End of Login DDT Test **********
+2021-07-19 15:11:13,457 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-19 21:45:59,450 - INFO - ************* Test_003_AddCustomer **********
+2021-07-19 21:46:08,104 - INFO - ************* Login succesful **********
+2021-07-19 21:46:08,104 - INFO - ******* Starting Add Customer Test **********
+2021-07-20 07:42:28,327 - INFO - ************* Test_003_AddCustomer **********
+2021-07-20 07:42:37,602 - INFO - ************* Login succesful **********
+2021-07-20 07:42:37,602 - INFO - ******* Starting Add Customer Test **********
+2021-07-20 07:47:18,863 - INFO - ************* Test_003_AddCustomer **********
+2021-07-20 07:47:28,281 - INFO - ************* Login succesful **********
+2021-07-20 07:47:28,281 - INFO - ******* Starting Add Customer Test **********
+2021-07-20 13:10:33,691 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 13:10:43,357 - INFO - ************* Login succesful **********
+2021-07-20 13:10:43,357 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 21:46:30,595 - INFO - ***********Test_001_Login*********
+2021-07-20 21:46:30,597 - INFO - ***********Verifying Home page title*********
+2021-07-20 21:46:36,562 - INFO - ***********Home page title Pass*********
+2021-07-20 21:46:43,605 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 21:46:43,605 - INFO - ***********Verifying Login page title*********
+2021-07-20 21:46:55,796 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,872 - INFO - ***********Test_001_Login*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:21,874 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:28,788 - INFO - ***********Home page title Pass*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:35,632 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:07:47,665 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,644 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:09,652 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:18,509 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,398 - INFO - ***********Test_001_Login*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:25,400 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:31,931 - INFO - ***********Home page title Pass*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:39,218 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:52,518 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:15:59,449 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:17,370 - INFO - **** passed ****
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:30,998 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,406 - INFO - ************* Login succesful **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:38,408 - INFO - ******* Starting Search Customer By Email **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:46,501 - INFO - ************* SearchCustomerByName_005 **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ************* Login succesful **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:16:51,646 - INFO - ******* Starting Search Customer By Name **********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,095 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:42,099 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:48,706 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,536 - INFO - ***********Test_001_Login*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:33:55,537 - INFO - ***********Verifying Home page title*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:01,570 - INFO - ***********Home page title Pass*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Test_002_LoginPage*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:08,889 - INFO - ***********Verifying Login page title*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:19,205 - INFO - ***********Dashboard page title Pass*********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Test_002_DDT_Login Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:26,087 - INFO - ******* Starting Login DDT Test **********
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:40,787 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:49,516 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:34:55,302 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - **** passed ****
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:00,937 - INFO - ******* DDT Login test passed **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - ******* End of Login DDT Test **********
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
