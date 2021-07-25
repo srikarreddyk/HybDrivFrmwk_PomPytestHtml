@@ -12,7 +12,7 @@ class Test_SearchCustomerByName_005:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
-    #@pytest.mark.regression
+    @pytest.mark.regression
     def test_searchCustomerByName(self,setup):
         self.logger.info("************* SearchCustomerByName_005 **********")
         self.driver=setup
@@ -23,14 +23,17 @@ class Test_SearchCustomerByName_005:
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
+        time.sleep(3)
         self.logger.info("************* Login succesful **********")
 
         self.logger.info("******* Starting Search Customer By Name **********")
 
         self.addcust = AddCustomer(self.driver)
+        time.sleep(3)
         self.addcust.clickOnCustomersMenu()
+        time.sleep(3)
         self.addcust.clickOnCustomersMenuItem()
-        time.sleep(2)
+        time.sleep(3)
 
         self.logger.info("************* searching customer by Name **********")
         searchcust = SearchCustomer(self.driver)

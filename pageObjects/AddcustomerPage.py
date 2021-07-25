@@ -3,14 +3,14 @@ from selenium.webdriver.support.ui import Select
 
 class AddCustomer:
     # Add customer Page
-    lnkCustomers_menu_xpath = """//a[@href="#"]//span[contains(text(),'Customers')]"""
+    lnkCustomers_menu_xpath = """//a[@href="#"]//p[contains(text(),'Customers')]"""
     #//body/div[3]/aside[1]/div[1]/div[4]/div[1]/div[1]/nav[1]/ul[1]/li[4]/a[1]
     #/html/body/div[3]/nav/ul/li/a/i
-    lnkCustomers_menuitem_xpath = "//span[@class='menu-item-title'][contains(text(),'Customers')]"
-    btnAddnew_xpath = "//a[@class='btn bg-blue']"
+    lnkCustomers_menuitem_xpath = """//a[@href="/Admin/Customer/List"]"""
+    btnAddnew_xpath = "//a[@class='btn btn-primary']"
     txtEmail_xpath = "//input[@id='Email']"
     txtPassword_xpath = "//input[@id='Password']"
-    txtcustomerRoles_xpath = "//div[@class='k-multiselect-wrap k-floatwrap']"
+    txtcustomerRoles_xpath = "/html/body/div[3]/div[1]/form/section/div/div/nop-cards/nop-card/div/div[2]/div[10]/div[2]/div/div[1]/div/div[1]"
     lstitemAdministrators_xpath = "//li[contains(text(),'Administrators')]"
     lstitemRegistered_xpath = "//li[contains(text(),'Registered')]"
     lstitemGuests_xpath = "//li[contains(text(),'Guests')]"

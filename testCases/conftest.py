@@ -7,13 +7,16 @@ import pytest
 def setup(browser):
     if browser == 'chrome':
         driver = webdriver.Chrome("C:\\Users\\srikar\\PycharmProjects\\Drivers\\chromedriver.exe")
+        driver.implicitly_wait(20)
         print("Launching Chrome browser...........")
     elif browser == 'firefox':
         driver = webdriver.Firefox()
+        driver.implicitly_wait(20)
         print("Launching Firefox browser...........")
     else:
-        driver = webdriver.Firefox()
-        # driver = webdriver.Ie("C:\\Users\\srikar\\PycharmProjects\\Drivers\\IEDriverServer.exe")
+        #driver = webdriver.Firefox()
+        driver = webdriver.Edge("C:\\Users\\srikar\\PycharmProjects\\Drivers\\msedgedriver.exe")
+        driver.implicitly_wait(20)
     return driver
 
 

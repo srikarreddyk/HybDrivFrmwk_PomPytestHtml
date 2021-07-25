@@ -6,6 +6,7 @@ from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 import string
 import random
+import time
 
 
 class Test_003_AddCustomer:
@@ -14,31 +15,37 @@ class Test_003_AddCustomer:
     password = ReadConfig.getPassword()
     logger = LogGen.loggen()  # Logger
 
-    # @pytest.mark.sanity
-    # @pytest.mark.regression
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_addCustomer(self, setup):
         self.logger.info("************* Test_003_AddCustomer **********")
         self.driver = setup
         self.driver.get(self.baseURL)
         self.driver.maximize_window()
+        self.driver.implicitly_wait(20)
 
         self.lp = LoginPage(self.driver)
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
         self.lp.clickLogin()
-        self.logger.info("************* Login succesful **********")
+        time.sleep(3)
+        self.logger.info("************* Login successful **********")
 
         self.logger.info("******* Starting Add Customer Test **********")
 
         self.addcust = AddCustomer(self.driver)
-        self.addcust.clickOnCustomersMenu()
-        self.addcust.clickOnCustomersMenuItem()
 
+        self.addcust.clickOnCustomersMenu()
+        time.sleep(3)
+        self.addcust.clickOnCustomersMenuItem()
+        time.sleep(3)
         self.addcust.clickOnAddnew()
+        time.sleep(3)
 
         self.logger.info("************* Providing customer info **********")
 
         self.email = random_generator() + "@gmail.com"
+        time.sleep(3)
         self.addcust.setEmail(self.email)
         self.addcust.setPassword("test123")
         self.addcust.setCustomerRoles("Guests")

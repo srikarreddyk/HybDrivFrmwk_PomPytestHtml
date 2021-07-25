@@ -436,3 +436,59 @@
 2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
 2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
 2021-07-20 22:35:01,875 - INFO - **************** Completed  TC_LoginDDT_002 ************* 
+2021-07-24 19:10:56,618 - INFO - ************* Test_003_AddCustomer **********
+2021-07-24 19:11:04,824 - INFO - ************* Login succesful **********
+2021-07-24 19:11:04,824 - INFO - ******* Starting Add Customer Test **********
+2021-07-24 19:14:21,259 - INFO - ************* Test_003_AddCustomer **********
+2021-07-24 19:14:30,303 - INFO - ************* Login successful **********
+2021-07-24 19:14:30,303 - INFO - ******* Starting Add Customer Test **********
+2021-07-24 19:22:09,799 - INFO - ************* Test_003_AddCustomer **********
+2021-07-24 19:22:18,348 - INFO - ************* Login successful **********
+2021-07-24 19:22:18,348 - INFO - ******* Starting Add Customer Test **********
+2021-07-24 19:27:47,028 - INFO - ************* Test_003_AddCustomer **********
+2021-07-24 19:27:56,177 - INFO - ************* Login successful **********
+2021-07-24 19:27:56,177 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:23:10,138 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 12:23:20,177 - INFO - ************* Login successful **********
+2021-07-25 12:23:20,177 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:30:24,919 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 12:30:32,968 - INFO - ************* Login successful **********
+2021-07-25 12:30:32,968 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:41:05,270 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 12:41:18,137 - INFO - ************* Login successful **********
+2021-07-25 12:41:18,138 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:42:15,706 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 12:42:28,993 - INFO - ************* Login successful **********
+2021-07-25 12:42:28,994 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:42:40,303 - INFO - ************* Providing customer info **********
+2021-07-25 12:56:28,409 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 12:56:41,878 - INFO - ************* Login successful **********
+2021-07-25 12:56:41,878 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:56:54,333 - INFO - ************* Providing customer info **********
+2021-07-25 12:59:28,274 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 12:59:40,743 - INFO - ************* Login successful **********
+2021-07-25 12:59:40,743 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 12:59:53,190 - INFO - ************* Providing customer info **********
+2021-07-25 13:00:09,117 - INFO - ************* Saving customer info **********
+2021-07-25 13:00:09,117 - INFO - ********* Add customer validation started *****************
+2021-07-25 13:00:09,617 - INFO - ********* Add customer Test Passed *********
+2021-07-25 13:00:10,588 - INFO - ******* Ending Add customer test **********
+2021-07-25 13:01:47,603 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-25 13:01:55,859 - INFO - ************* Login succesful **********
+2021-07-25 13:01:55,859 - INFO - ******* Starting Search Customer By Email **********
+2021-07-25 13:37:27,594 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-25 13:37:38,620 - INFO - ************* Login succesful **********
+2021-07-25 13:37:38,621 - INFO - ******* Starting Search Customer By Email **********
+2021-07-25 13:37:45,979 - INFO - ************* searching customer by emailID **********
+2021-07-25 13:37:55,285 - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2021-07-25 14:23:35,418 - INFO - ************* SearchCustomerByEmail_004 **********
+2021-07-25 14:57:13,240 - INFO - ***********Test_001_Login*********
+2021-07-25 14:57:13,240 - INFO - ***********Verifying Home page title*********
+2021-07-25 22:27:27,227 - INFO - ************* Test_003_AddCustomer **********
+2021-07-25 22:27:41,043 - INFO - ************* Login successful **********
+2021-07-25 22:27:41,044 - INFO - ******* Starting Add Customer Test **********
+2021-07-25 22:27:55,301 - INFO - ************* Providing customer info **********
+2021-07-25 22:28:12,327 - INFO - ************* Saving customer info **********
+2021-07-25 22:28:12,327 - INFO - ********* Add customer validation started *****************
+2021-07-25 22:28:14,058 - INFO - ********* Add customer Test Passed *********
+2021-07-25 22:28:14,149 - INFO - ******* Ending Add customer test **********
