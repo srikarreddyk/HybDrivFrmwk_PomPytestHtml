@@ -562,3 +562,11 @@
 2021-07-25 22:36:42,790 - INFO - ***********Dashboard page title Pass*********
 2021-07-25 22:36:42,790 - INFO - ***********Dashboard page title Pass*********
 2021-07-25 22:36:42,790 - INFO - ***********Dashboard page title Pass*********
+2021-07-31 05:38:28,884 - INFO - ***********Test_001_Login*********
+2021-07-31 05:38:28,886 - INFO - ***********Verifying Home page title*********
+2021-07-31 05:38:34,210 - INFO - ***********Home page title Pass*********
+2021-07-31 05:38:36,667 - INFO - ***********Test_002_LoginPage*********
+2021-07-31 05:38:36,668 - INFO - ***********Verifying Login page title*********
+2021-07-31 05:38:44,320 - ERROR - ***********Dashboard page title Fail*********
+2021-07-31 05:46:17,077 - INFO - ***********Test_002_LoginPage*********
+2021-07-31 05:46:17,078 - INFO - ***********Verifying Login page title*********

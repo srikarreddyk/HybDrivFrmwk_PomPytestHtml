@@ -969,3 +969,50 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1627200447197	Marionette	INFO	Listening on port 60318
 1627200447533	Marionette	WARN	TLS certificate errors will be ignored for this session
 1627200474343	Marionette	INFO	Stopped listening on port 60318
+1627688367115	geckodriver	INFO	Listening on 127.0.0.1:63880
+1627688370187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\srikar\\AppData\\Local\\Temp\\rust_mozprofilehX7jAy"
+1627688371356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srikar\\AppData\\Local\\Temp\\rust_mozprofilehX7jAy\\search.json.mozlz4", (void 0)))
+1627688374988	Marionette	INFO	Listening on port 63888
+1627688375119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627688378834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627688378837	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627688378840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627688378844	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627688378846	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1627688416048	Marionette	INFO	Stopped listening on port 63888
+1627691177389	geckodriver	INFO	Listening on 127.0.0.1:51813
+1627691180466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\srikar\\AppData\\Local\\Temp\\rust_mozprofileIgTXgu"
+1627691181576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srikar\\AppData\\Local\\Temp\\rust_mozprofileIgTXgu\\search.json.mozlz4", (void 0)))
+1627691185284	Marionette	INFO	Listening on port 51821
+1627691185336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627691189662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css without a browsingContextID set
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1627697395984	Marionette	INFO	Stopped listening on port 51821
+"-foreground" "-no-remote" "-profile" "C:\\Users\\srikar\\AppData\\Local\\Temp\\rust_mozprofilelGVAgC"
+1627692833612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\srikar\\AppData\\Local\\Temp\\rust_mozprofilelGVAgC\\search.json.mozlz4", (void 0)))
+1627692838156	Marionette	INFO	Listening on port 50242
+1627692838581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627692843036	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1627692863735	Marionette	INFO	Stopped listening on port 50242
